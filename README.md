@@ -11,6 +11,8 @@ A comprehensive real estate and travel booking platform built with Django REST F
 - **Review System**: Property ratings and feedback
 - **Booking System**: Reservation management
 - **Payment Integration**: Secure payment processing
+- **Asynchronous Tasks:** Using Celery with RabbitMQ to handle background tasks like sending confirmation emails.
+- **Django Chapa Payment Gateway Integration** Connecting a Django backend to the Chapa API for payment processing.
 
 ### User Roles
 - **Admin**: Full system access and management
